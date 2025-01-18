@@ -15,7 +15,8 @@ I’m from the vibrant city of Bangalore, where traffic teaches patience and foo
 
 
 
-**Find me on:**
-* Email: [mallikarjun.ni@northeastern.edu]
-* LinkedIn: [https://www.linkedin.com/in/m-nidhi/] 
-* Portfolio: [https://purrfect-crater-2b1.notion.site/Hey-I-m-Nidhi-17f567ddb53c805997f3d1286e8d4c82?pvs=4]
+**Find me on:**  
+* Email: [mallikarjun.ni@northeastern.edu](mailto:mallikarjun.ni@northeastern.edu)  
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/m-nidhi/)  
+* Portfolio: [Portfolio](https://purrfect-crater-2b1.notion.site/Hey-I-m-Nidhi-17f567ddb53c805997f3d1286e8d4c82?pvs=4)  
+
